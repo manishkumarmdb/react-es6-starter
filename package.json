@@ -1,0 +1,32 @@
+{
+  "name": "react-es6-starter",
+  "version": "1.0.0",
+  "description": "React and ES6 starter kit for reactJs and es6 based project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manishkumarmdb/react-es6-starter"
+  },
+  "scripts": {
+    "webpack": "webpack",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "author": {
+    "name": "Manish Kumar",
+    "email": "manishkumarmdb@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.1.21",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "babel-loader": "^6.1.0",
+    "webpack": "^1.12.6",
+    "copy-webpack-plugin": "^0.2.0",
+    "webpack-dev-server": "^1.12.1",
+    "react-hot-loader": "^1.3.0"
+  },
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
