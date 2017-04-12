@@ -6,12 +6,10 @@ Project to get started with React:
 * hot module reloading via [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 
 Uses:
-```
-`git clone https://github.com/manishkumarmdb/react-es6-starter`
-`cd react-es6-starter`
-`npm install`
-`npm run`
-```
+* `git clone https://github.com/manishkumarmdb/react-es6-starter`
+* `cd react-es6-starter`
+* `npm install`
+* `npm run`
 
 Development:
 * Run dev server: `npm start`
